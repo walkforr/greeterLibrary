@@ -1,4 +1,4 @@
-# greeterLibrary
+# Greetr
 library of greeting functions
 
 When given a first name, last name, and optional language, it generates formal and informal greetings.
