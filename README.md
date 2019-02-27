@@ -7,4 +7,7 @@ Supports up to 20 of the world's most popular languages.
 
 Easy to type 'G$()' structure.
 
-Supports jQuery.
+Supports jQuery and vanilla js query selectors.
+
+
+https://walkforr.github.io/greeterLibrary/
